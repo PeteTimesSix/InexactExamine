@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<InexactExamine_Damage_Thing_0to15>nearly destroyed</InexactExamine_Damage_Thing_0to15>
+	<InexactExamine_Damage_Thing_15to30>falling apart</InexactExamine_Damage_Thing_15to30>
+	<InexactExamine_Damage_Thing_30to50>mangled</InexactExamine_Damage_Thing_30to50>
+	<InexactExamine_Damage_Thing_50to70>battered</InexactExamine_Damage_Thing_50to70>
+	<InexactExamine_Damage_Thing_70to85>cracked</InexactExamine_Damage_Thing_70to85>
+	<InexactExamine_Damage_Thing_85to95>scratched</InexactExamine_Damage_Thing_85to95>
+	
+	<InexactExamine_Damage_Apparel_0to15>shredded</InexactExamine_Damage_Apparel_0to15>
+	<InexactExamine_Damage_Apparel_15to30>frayed</InexactExamine_Damage_Apparel_15to30>
+	<InexactExamine_Damage_Apparel_30to50>threadbare</InexactExamine_Damage_Apparel_30to50>
+	<InexactExamine_Damage_Apparel_50to70>worn</InexactExamine_Damage_Apparel_50to70>
+	<InexactExamine_Damage_Apparel_70to85>scuffed</InexactExamine_Damage_Apparel_70to85>
+	<InexactExamine_Damage_Apparel_85to95>nearly new</InexactExamine_Damage_Apparel_85to95>
+</LanguageData>
